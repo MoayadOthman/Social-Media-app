@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260880272383",
+    "project_id": "fireecommerce-11e32",
+    "storage_bucket": "fireecommerce-11e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260880272383:android:b41d0ad4bd25ff0bdaf5ca",
+        "android_client_info": {
+          "package_name": "com.social.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HyHNpaNx5g96PQZIbFzcm_z958nBV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
